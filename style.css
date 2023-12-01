@@ -58,3 +58,7 @@ sup {
   color: #1e2432;
   text-align: center;
 }
+
+#refresh_btn {
+  cursor: pointer;
+}
